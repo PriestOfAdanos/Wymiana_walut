@@ -1,4 +1,7 @@
 # Wymiana_walut
+
+Wszystko w bibliotece stanardowej
+
 Program do symulacji wymiany walut
 
 Wsad:
