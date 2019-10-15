@@ -81,6 +81,6 @@ def main():
     initial_info()
     while continue_loop:
         money_changer(get_data())
-
+        continue_loop()
 
 main()
